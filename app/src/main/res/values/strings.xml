@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HmWk3.1</string>
+    <string name="send_message">SEND</string>
+    <string name="email">email</string>
+    <string name="gmail">Введите свою почту</string>
+    <string name="theme1">Тема для сообщения</string>
+    <string name="msg">Введите сообщение</string>
+</resources>
